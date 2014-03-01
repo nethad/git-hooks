@@ -1,4 +1,4 @@
 git-hooks
 =========
 
-A repository of git hooks for code checks and validations
+This is a repository for useful git hooks which do code checks and validations.
